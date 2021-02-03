@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tesla.com-react-native",
-    "slug": "tesla.com-react-native",
+    "name": "teslaclone",
+    "slug": "teslaclone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "tesla.com-react-native",
+    "githubUrl": "https://github.com/ywalia01/tesla.com-react-native"
   }
 }
