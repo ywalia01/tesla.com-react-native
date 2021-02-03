@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "teslaclone",
-    "slug": "teslaclone",
+    "name": "tesla.com-react-native",
+    "slug": "tesla.com-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
